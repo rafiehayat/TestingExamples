@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-01-25T19:45:27 IST" name="Default suite" finished-at="2026-01-25T19:45:44 IST" duration-ms="17025">
+  <suite started-at="2026-01-25T19:58:22 IST" name="Default suite" finished-at="2026-01-25T19:58:26 IST" duration-ms="3395">
     <groups>
     </groups>
-    <test started-at="2026-01-25T19:45:27 IST" name="Default test" finished-at="2026-01-25T19:45:44 IST" duration-ms="17025">
-      <class name="com.fb.TestNGDemo">
-        <test-method signature="verifyPageTitle()[pri:0, instance:com.fb.TestNGDemo@9225652]" started-at="2026-01-25T19:45:27 IST" name="verifyPageTitle" finished-at="2026-01-25T19:45:44 IST" duration-ms="16998" status="PASS">
+    <test started-at="2026-01-25T19:58:22 IST" name="Default test" finished-at="2026-01-25T19:58:26 IST" duration-ms="3395">
+      <class name="com.fb.NewTest">
+        <test-method signature="f()[pri:0, instance:com.fb.NewTest@9225652]" started-at="2026-01-25T19:58:22 IST" name="f" finished-at="2026-01-25T19:58:26 IST" duration-ms="3369" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verifyPageTitle -->
-      </class> <!-- com.fb.TestNGDemo -->
+        </test-method> <!-- f -->
+      </class> <!-- com.fb.NewTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
