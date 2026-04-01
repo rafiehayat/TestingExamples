@@ -10,7 +10,7 @@ public class LoginTestWithPOM {
 		ChromeDriver cd = new ChromeDriver();
 		cd.manage().window().maximize();
 		
-		LoginPageWithPOM LoginPg = new LoginPageWithPOM(cd);
+		LoginPageWithPOM2 LoginPg = new LoginPageWithPOM2(cd);
 		
 		cd.get("https://www.saucedemo.com/");
 		

@@ -15,7 +15,7 @@ public class LoginPageWithPOM2 {
 		// this method will create webElements
 		PageFactory.initElements(cd, this);
 	}
-	@FindBy (id="user_name") WebElement username;
+	@FindBy (id="user-name") WebElement username;
 	@FindBy (id="password") WebElement password;
 	@FindBy (id="login-button") WebElement loginBtn;
 	
