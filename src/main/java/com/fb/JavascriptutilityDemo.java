@@ -11,7 +11,7 @@ public class JavascriptutilityDemo {
 	}
 	public static  String getTitleByJS( WebDriver cd) {
 		JavascriptExecutor js = ((JavascriptExecutor) cd);
-		String title = js.executeScript("return document.title();").toString();
+		String title = js.executeScript("return document.title;").toString();
 		return title;
 		
 	}
